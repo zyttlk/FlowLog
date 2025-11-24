@@ -1,11 +1,5 @@
 <img width="680" height="1529" alt="屏幕截图 2025-11-24 135039" src="https://github.com/user-attachments/assets/114a9f09-a2ac-4f4b-a551-c7334649df97" />
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
 ### **第一版产品介绍：**
 
 #### 📖 设计初衷
