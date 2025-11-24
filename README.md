@@ -1,20 +1,37 @@
+<img width="680" height="1529" alt="屏幕截图 2025-11-24 135039" src="https://github.com/user-attachments/assets/114a9f09-a2ac-4f4b-a551-c7334649df97" />
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+### **第一版产品介绍：**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1pwoEImkACqAHUa0ElVUoYKklmrLjij_Y
+#### 📖 设计初衷
 
-## Run Locally
+在快节奏的时代，我们总是为了“未完成”而焦虑。传统的各种打卡软件，总是用红色的叉号提醒我们的失败。但我认为，生活不是非黑即白的。  
+**《时光印记》** 的诞生，就是为了打破这种焦虑。它试图用一种更温柔的方式，记录我们流逝的时间。在这里，目标不是用来压垮你的，而是用来种下希望的。
 
-**Prerequisites:**  Node.js
+#### ✨ 功能特色详解
 
+**1. 有温度的“痕迹系统” (Trace System)**  
+不同于枯燥的打钩，我们将日历变成了一块画布：
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **预设：** 当你许下承诺，日历上会出现淡淡的铅笔圈，像是一颗待发芽的种子。
+    
+- **完成：** 点亮图标，随机掉落小太阳、咖啡、猫爪等手绘贴纸，像给生活盖了一枚奖励章。
+    
+- **遗憾：** 即使失败，也是一枚落叶或雨滴。它在告诉你：不完美的日子，也是风景的一部分。
+    
+
+**2. 允许“放弃”的哲学**  
+这是本产品的核心差异化功能。  
+大多数软件逼迫你必须“做完”。但在《时光印记》中，你可以选择 **“放弃”**。  
+点击放弃，任务痕迹会变成随风消散的云烟，并配以“与自己和解”的暖心标语。我们需要承认自己的局限性，把精力留给更重要的事情，这不丢人。
+
+**3. 沉浸式的新拟态设计 (Neumorphism)**  
+界面采用极简的暖色调（Cream & Sage），配合柔和的光影效果，营造出一种“呼吸感”。没有复杂的菜单，没有恼人的红点通知，只有你和你的时间。
+
+**4. 隐私至上的本地存储**  
+你的梦想不需要上传云端被算法审视。所有数据完全存储在本地（Local Database），支持一键导出备份，安全、私密、纯粹。
